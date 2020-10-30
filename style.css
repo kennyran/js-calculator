@@ -1,0 +1,51 @@
+/* input styling for buttons and number entry */
+input {
+    width: 150px;
+    height: 100px;
+    font-size: 75px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color: #000;
+    color: #fff;
+    border-style: none;
+}
+
+#myForm {
+    margin-left: 225px;
+    margin-top: 20px;
+    /*border: medium solid purple;*/
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+    margin-right: 150px;
+    margin-top: 20px;
+}
+
+.display {
+    width: 675px;
+    height: 100px;
+    text-align: center;
+    background-color: #1f80c9;
+}
+
+.plus-sign {
+    background-color: #cc5c11;
+}
+
+.minus-sign {
+    background-color: #ba55d3;
+}
+
+.multiply {
+    background-color: #7db1b2;
+}
+
+.clear-sign {
+    background-color: #cc0000;
+}
+
+.division-sign {
+    background-color: green;
+}
